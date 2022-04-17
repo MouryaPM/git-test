@@ -1,1 +1,38 @@
 test
+
+
+
+
+PS E:\Training\FSD2\Content\git> git branch
+* b1
+  master
+PS E:\Training\FSD2\Content\git> git checkout master
+Switched to branch 'master'
+PS E:\Training\FSD2\Content\git> ls
+
+
+    Directory: E:\Training\FSD2\Content\git
+
+Mode                 LastWriteTime         Length Name
+-a----        16-04-2022     15:45            177 readme.txt
+
+  b1
+* master
+PS E:\Training\FSD2\Content\git> git checkout b1
+Switched to branch 'b1'
+PS E:\Training\FSD2\Content\git> git checkout master
+Switched to branch 'master'
+PS E:\Training\FSD2\Content\git> git merge b1
+Updating b519f8d..74c4493
+Fast-forward
+ b1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 b1.txt
+PS E:\Training\FSD2\Content\git>
+
+
+
+
+
+Git hub
+
