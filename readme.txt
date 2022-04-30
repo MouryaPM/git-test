@@ -42,7 +42,7 @@ select eveything othe rthen admin  part
 
 click ok -> token generated
 
-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 -> token 
+ -> token 
 
 show output in github , 
 
